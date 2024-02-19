@@ -1,0 +1,33 @@
+name: final_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+assets:
+    - I1.jpg
+    - I2.jpg
+    - I3.jpg
+    - I4.jpg
+    - I5.jpg
+    - I8.jpg
+    - I7.jpg
+    - I9.jpg
+    - I10.jpg
+    - I11.jpg
+    - I12.jpg
+    - II.jpg
